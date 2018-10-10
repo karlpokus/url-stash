@@ -9,6 +9,4 @@ fi
 DATADIR="$1"
 
 # pipe urls found in $DATADIR to peco where selected url will be opened in default browser
-#grep -ir http $DATADIR | peco | cut -d : -f 2- | xargs open
-
-echo pass
+grep -ir http $DATADIR | peco | cut -d : -f 2- | xargs open
