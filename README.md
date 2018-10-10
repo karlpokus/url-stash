@@ -6,7 +6,7 @@ You have lots of urls that you need to access frequently but can't remember. Som
 
 # requirements
 - [peco](https://github.com/peco/peco)
-- urls in `$DATADIR`
+- fully qualified urls in `$DATADIR`
 
 # usage
 
