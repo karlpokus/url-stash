@@ -22,4 +22,4 @@ The script greps on `http` in `$DATADIR` and pipes the list to peco where you fi
 - [ ] example
 - [ ] bundle peco?
 - [ ] option to pipe to clipboard
-- [ ] option to use spotlight on Mac OS
+- [ ] option to use [spotlight](https://stackoverflow.com/questions/2877741/how-to-run-a-shell-script-using-spotlight) on Mac OS
